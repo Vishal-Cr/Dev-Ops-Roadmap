@@ -1,11 +1,11 @@
-# DevOps Projects Roadmap
+# DevOps Projects Roadmap 
 
 ## Overview
 This repository contains DevOps projects following the roadmap outlined in [roadmap.sh/devops](https://roadmap.sh/devops). The projects cover various aspects of DevOps, including automation, CI/CD, containerization, monitoring, and infrastructure as code.
 
-## Projects Submitted So far
+## Projects Submitted So far 
 
-### 1. **Server Performance Monitoring Script**
+### 1. **Server Performance Monitoring Script** [(Link)]([https://roadmap.sh/projects/server-stats)
 - Collects CPU, memory, and disk usage stats.
 - Lists top processes consuming resources.
 - Provides system uptime, logged-in users, and failed login attempts.
