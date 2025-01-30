@@ -5,7 +5,7 @@ This repository contains DevOps projects following the roadmap outlined in [road
 
 ## Projects Submitted So far 
 
-### 1. **Server Performance Monitoring Script** [(Link)]([https://roadmap.sh/projects/server-stats)
+### 1. **Server Performance Monitoring Script** [(Link)](https://roadmap.sh/projects/server-stats)
 - Collects CPU, memory, and disk usage stats.
 - Lists top processes consuming resources.
 - Provides system uptime, logged-in users, and failed login attempts.
